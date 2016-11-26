@@ -1,0 +1,13 @@
+c:\users\littlefox\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\littlefox\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\littlefox\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\littlefox\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\users\littlefox\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\littlefox\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+d:\c#\kolor-github\02\22.11\code\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+d:\c#\kolor-github\02\22.11\code\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+d:\c#\kolor-github\02\22.11\code\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+d:\c#\kolor-github\02\22.11\code\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+d:\c#\kolor-github\02\22.11\code\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+d:\c#\kolor-github\02\22.11\code\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.CodeAnalysisLog.xml
+d:\c#\kolor-github\02\22.11\code\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.lastcodeanalysissucceeded
